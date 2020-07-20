@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatingWebAPIService", "CreatingWebAPIService\CreatingWebAPIService.csproj", "{0939F255-3E26-48A4-B83F-B626545C845A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeerWebApiTestProject1", "BeerWebApiTestProject1\BeerWebApiTestProject1.csproj", "{1DEEC65F-D03C-49FA-AD28-CDC09BB21F19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0939F255-3E26-48A4-B83F-B626545C845A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0939F255-3E26-48A4-B83F-B626545C845A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0939F255-3E26-48A4-B83F-B626545C845A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0939F255-3E26-48A4-B83F-B626545C845A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DEEC65F-D03C-49FA-AD28-CDC09BB21F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DEEC65F-D03C-49FA-AD28-CDC09BB21F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DEEC65F-D03C-49FA-AD28-CDC09BB21F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DEEC65F-D03C-49FA-AD28-CDC09BB21F19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

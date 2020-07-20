@@ -1,0 +1,31 @@
+{
+  "BeerRating": [
+    {
+      "Id": 1,
+      "UserName": "Nagarjuna@gmail.com",
+      "Rating": 5,
+      "Comments": "GoodBeer",
+      "BeeName": "Buzz",
+      "Status": "Sucess",
+      "ReultData": null
+    },
+    {
+      "Id": 50,
+      "UserName": "Nagarjuna@gmail.com",
+      "Rating": 5,
+      "Comments": "GoodBeer",
+      "BeeName": "Lost Dog (w/Lost Abbey)",
+      "Status": "Sucess",
+      "ReultData": null
+    },
+    {
+      "Id": 26,
+      "UserName": "Nagarjuna@gmail.com",
+      "Rating": 5,
+      "Comments": "GoodBeer",
+      "BeeName": "Skull Candy",
+      "Status": "Sucess",
+      "ReultData": null
+    }
+  ]
+}
